@@ -202,10 +202,21 @@ function App() {
                         <div>
                           <h4 className="font-medium mb-2">Cobo Solutions</h4>
                           <ul className="list-disc pl-6 space-y-2 text-gray-600">
-                            <li>Enhanced proof of reserves system</li>
-                            <li>Real-time asset verification tools</li>
-                            <li>Comprehensive audit trails</li>
-                            <li>Transparent security policies</li>
+                            <li>
+                              Comprehensive audit trails and reporting
+                              <div className="text-sm text-gray-500">Source: /en/apps/reports/introduction</div>
+                            </li>
+                            <li>
+                              Multi-tier storage with 95% cold storage
+                              <div className="text-sm text-gray-500">Source: /en/portal/introduction</div>
+                            </li>
+                            <li>
+                              Transaction policy controls and monitoring
+                              <div className="text-sm text-gray-500">Source: /en/portal/risk-controls/tx-policies-overview</div>
+                            </li>
+                            <li className="text-yellow-600">
+                              Proof of reserves system (Verification pending)
+                            </li>
                           </ul>
                         </div>
                       </div>
@@ -226,10 +237,15 @@ function App() {
                         <div>
                           <h4 className="font-medium mb-2">Cobo Solutions</h4>
                           <ul className="list-disc pl-6 space-y-2 text-gray-600">
-                            <li>Regional compliance expertise</li>
-                            <li>Automated compliance tools</li>
-                            <li>Cross-border transaction monitoring</li>
-                            <li>Enhanced KYC/AML capabilities</li>
+                            <li className="text-yellow-600">
+                              Regional compliance expertise (Verification pending)
+                            </li>
+                            <li className="text-yellow-600">
+                              Cross-border transaction monitoring (Verification pending)
+                            </li>
+                            <li className="text-yellow-600">
+                              Enhanced KYC/AML capabilities (Verification pending)
+                            </li>
                           </ul>
                         </div>
                       </div>
@@ -250,10 +266,21 @@ function App() {
                         <div>
                           <h4 className="font-medium mb-2">Cobo Solutions</h4>
                           <ul className="list-disc pl-6 space-y-2 text-gray-600">
-                            <li>Advanced MPC wallet technology</li>
-                            <li>Multi-tier storage architecture</li>
-                            <li>Automated wallet management</li>
-                            <li>HSM integration for enhanced security</li>
+                            <li>
+                              MPC Wallets with distributed key management
+                              <div className="text-sm text-gray-500">Source: /en/portal/introduction</div>
+                            </li>
+                            <li>
+                              Multi-tier storage architecture (hot-warm-cold)
+                              <div className="text-sm text-gray-500">Source: /en/portal/introduction</div>
+                            </li>
+                            <li>
+                              Risk control engines for unauthorized access
+                              <div className="text-sm text-gray-500">Source: /en/portal/risk-controls/tx-policies-overview</div>
+                            </li>
+                            <li className="text-yellow-600">
+                              HSM integration (Verification pending)
+                            </li>
                           </ul>
                         </div>
                       </div>
@@ -274,10 +301,18 @@ function App() {
                         <div>
                           <h4 className="font-medium mb-2">Cobo Solutions</h4>
                           <ul className="list-disc pl-6 space-y-2 text-gray-600">
-                            <li>SuperLoop settlement network</li>
-                            <li>Support for 40+ protocols</li>
-                            <li>Streamlined withdrawal flows</li>
-                            <li>Advanced API integration</li>
+                            <li>
+                              SuperLoop settlement network
+                              <div className="text-sm text-gray-500">Source: /en/apps/superloop/introduction</div>
+                            </li>
+                            <li>
+                              Batch Payouts for efficient transfers
+                              <div className="text-sm text-gray-500">Source: /en/apps/batch-payouts/introduction</div>
+                            </li>
+                            <li>
+                              API integration with WaaS 2.0
+                              <div className="text-sm text-gray-500">Source: /en/portal/developer-console/</div>
+                            </li>
                           </ul>
                         </div>
                       </div>
@@ -298,10 +333,20 @@ function App() {
                         <div>
                           <h4 className="font-medium mb-2">Cobo Solutions</h4>
                           <ul className="list-disc pl-6 space-y-2 text-gray-600">
-                            <li>Advanced risk monitoring</li>
-                            <li>Automated risk controls</li>
-                            <li>Enhanced liquidity tools</li>
-                            <li>Real-time risk assessment</li>
+                            <li>
+                              Transaction policy controls
+                              <div className="text-sm text-gray-500">Source: /en/portal/risk-controls/tx-policies-overview</div>
+                            </li>
+                            <li>
+                              Automated approval workflows
+                              <div className="text-sm text-gray-500">Source: /en/portal/risk-controls/tx-policies-overview</div>
+                            </li>
+                            <li className="text-yellow-600">
+                              Enhanced liquidity tools (Verification pending)
+                            </li>
+                            <li className="text-yellow-600">
+                              Real-time risk assessment (Verification pending)
+                            </li>
                           </ul>
                         </div>
                       </div>
